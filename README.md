@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
-  <center><head<title><h1 id=title><div align=center>The Xbox Timeline</h1></title>
-<body id=body>
+  <center><title><h1 id="title"><div align=center>The Xbox Timeline</h1></title>
+<body id="body">
       <a title="Xbox's webpage" href=https://www.xbox.com/en-US/><img id=photo src=http://www.pngmart.com/files/6/Xbox-Logo-PNG-Pic.png></a></body></center>
  
 
@@ -54,7 +54,7 @@
 <th><a title="Xbox instagram" href=https://www.instagram.com/xbox/><img id=instagram  src=http://pluspng.com/img-png/instagram-png-instagram-png-logo-1455.png
 href=https://www.instagram.com/minecraft/></th>
 <th><a title="Xbox facebook" href=https://www.facebook.com/xbox/><img id=facebook src=https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png></th>
-     </table></p> 
+     </table></p> </html>
 
 <style>
   #source{
@@ -236,4 +236,5 @@ href=https://www.instagram.com/minecraft/></th>
 
 }
 </style>
+
 </html>
